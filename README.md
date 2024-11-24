@@ -55,8 +55,8 @@ This project aims to:
 - **`emissions/emissions.ipynb`**: Analyze dietary data to estimate CO2 emissions for different food categories.
 - **`global_emissions/`**: 
   - `emissions_global.ipynb`: Provides a global perspective on dietary CO2 emissions.
-  - `task1.ipynb`: Focuses on the first task (e.g., EMRO data preparation or specific regional insights).
-  - `task2.ipynb`: Explores the second task (e.g., comparisons or deeper analysis).
+  - `task1.ipynb`: Calculating CO2 emissions for specific food items (details in notebooks)
+  - `task2.ipynb`: Calculating CO2 emissions for various food groups (details in notebooks)
 
 ### Diet Scoring (`diet_calc/`)
 - **`dash_score.ipynb`**: Computes DASH scores for dietary patterns.
