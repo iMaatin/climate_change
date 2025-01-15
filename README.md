@@ -1,7 +1,7 @@
 
-# CO2 Emissions from Global Dietary Data (EMRO Region)
+# CO2 Emissions from Global Dietary Data (EMR Region)
 
-This repository contains tools and scripts for calculating and analyzing CO2 emissions from global dietary data, with a specific focus on countries in the **Eastern Mediterranean Region (EMRO)**. The project includes modules for emissions calculations, diet scoring, and insights into sustainable dietary practices.
+This repository contains tools and scripts for calculating and analyzing CO2 emissions from global dietary data, with a specific focus on countries in the **Eastern Mediterranean Region (EMR)**. The project includes modules for emissions calculations, diet scoring, and insights into sustainable dietary practices.
 
 ## Repository Structure
 
