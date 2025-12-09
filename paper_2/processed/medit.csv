@@ -5,7 +5,7 @@ BHR,3.0,3.0,3.0,4.0,4.0,4.0,4.0,High income
 DJI,3.0,3.0,2.0,2.0,3.0,3.0,4.0,Lower middle income
 EGY,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Lower middle income
 IRN,2.0,1.0,2.0,2.0,2.0,2.0,2.0,Upper middle income
-IRQ,3.0,2.0,3.0,3.0,2.0,2.0,4.0,Upper middle income
+IRQ,,2.0,3.0,3.0,2.0,2.0,4.0,Upper middle income
 JOR,3.0,4.0,4.0,4.0,4.0,3.0,3.0,Lower middle income
 KWT,3.0,3.0,4.0,4.0,4.0,3.0,5.0,High income
 LBN,4.0,3.0,4.0,2.0,2.0,3.0,2.0,Lower middle income
