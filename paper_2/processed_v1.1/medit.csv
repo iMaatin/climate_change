@@ -1,0 +1,22 @@
+iso3,1990,1995,2000,2005,2010,2015,2018,income_group
+AFG,3.0,3.0,3.0,3.0,3.0,3.0,3.0,Low income
+ARE,3.0,3.0,3.0,3.0,4.0,4.0,3.0,High income
+BHR,3.0,3.0,3.0,4.0,4.0,4.0,4.0,High income
+DJI,3.0,3.0,2.0,2.0,3.0,3.0,4.0,Middle income
+EGY,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Middle income
+IRN,2.0,1.0,2.0,2.0,2.0,2.0,2.0,Middle income
+IRQ,,2.0,3.0,3.0,2.0,2.0,4.0,Middle income
+JOR,3.0,4.0,4.0,4.0,4.0,3.0,3.0,Middle income
+KWT,3.0,3.0,4.0,4.0,4.0,3.0,5.0,High income
+LBN,4.0,3.0,4.0,2.0,2.0,3.0,2.0,Middle income
+LBR,3.0,3.0,3.0,2.0,3.0,2.0,3.0,Low income
+MAR,3.0,2.0,3.0,3.0,3.0,4.0,5.0,Middle income
+OMN,4.0,3.0,4.0,4.0,3.0,5.0,5.0,High income
+PAK,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Middle income
+PSE,3.0,3.0,3.0,3.0,4.0,4.0,4.0,Middle income
+QAT,3.0,3.0,3.0,4.0,4.0,4.0,4.0,High income
+SAU,2.0,2.0,3.0,2.0,3.0,4.0,4.0,High income
+SDN,3.0,3.0,3.0,3.0,4.0,3.0,3.0,Low income
+SYR,2.0,2.0,2.0,2.0,3.0,3.0,3.0,Low income
+TUN,1.0,1.0,3.0,3.0,3.0,3.0,2.0,Middle income
+YEM,3.0,3.0,3.0,3.0,3.0,2.0,2.0,Low income
